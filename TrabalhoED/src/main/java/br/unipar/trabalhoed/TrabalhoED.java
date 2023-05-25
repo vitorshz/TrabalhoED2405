@@ -12,6 +12,6 @@ package br.unipar.trabalhoed;
 public class TrabalhoED {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
